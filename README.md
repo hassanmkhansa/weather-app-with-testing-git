@@ -11,7 +11,7 @@ this repository will be deleted after i test it.
 ---------------------------------------
 2 — Feature Branch Workflow
   a- Create a new feature branch
-  b- Make small feature change
+  b- Make small feature change "new change"
   c- Stage changes
   d- Commit feature
   e- Push feature branch to GitHub
